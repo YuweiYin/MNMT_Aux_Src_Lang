@@ -1,0 +1,12 @@
+cffi
+cython
+numpy
+regex
+sacrebleu==1.4.1
+torch
+tqdm
+sentencepiece
+youtokentome
+jieba
+sacremoses
+zhon

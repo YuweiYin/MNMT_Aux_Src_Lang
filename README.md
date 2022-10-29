@@ -91,7 +91,7 @@ Gu-En | 0.08M | newsdev19
 * [Fairseq](https://github.com/pytorch/fairseq): 1.0.0
 
 ```bash
-cd MNMT_Aux_Src_Lang/fairseq
+cd MNMT_Aux_Src_Lang
 pip install --editable ./
 ```
 

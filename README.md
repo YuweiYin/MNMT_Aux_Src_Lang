@@ -1,6 +1,6 @@
 # Improving Multilingual Neural Machine Translation with Auxiliary Source Languages
 
-![picture](https://yuweiyin.github.io/files/publications/2021-11-07-EMNLP-MNMT-auxSource.png)
+![picture](https://www.yuweiyin.com/files/img/2021-11-07-EMNLP-AuxSource.png)
 
 ## Abstract
 
